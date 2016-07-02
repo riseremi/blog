@@ -2,11 +2,10 @@
 Записки будущему мне.
 
 Стартовый набор:
-* https://facebook.github.io/react-native/docs/getting-started.html
-* https://github.com/react-native-material-design/react-native-material-design
-* https://github.com/react-native-material-design/demo-app
+* [Устанавливаем, пишем Hello World, изучаем основные компоненты и смотрим демо приложение ](https://facebook.github.io/react-native/docs/getting-started.html)
+* [Material Design UI библиотека для андроид-разработчиков](https://github.com/react-native-material-design/react-native-material-design)
 
- Большинство вопросов отлично гуглится в документации.
+Большинство вопросов отлично гуглится в документации.
  
 ## Тонкие моменты
 * Border можно задавать только каждый по отдельности. Чтобы сделать серый border сверху блока:
